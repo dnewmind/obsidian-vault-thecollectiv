@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "603295d91adecec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About/License.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "License"
-            }
-          },
-          {
             "id": "f4e0d20a2cdd2b24",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,9 +169,13 @@
   },
   "active": "f4e0d20a2cdd2b24",
   "lastOpenFiles": [
-    "Test.md",
+    "Reference/Glossary.md",
+    "Home.md",
     "obsidian-vault-thecollectiv/Home.md",
     "obsidian-vault-thecollectiv/User Guide/Shortcuts.md",
+    "About/License.md",
+    "Test.md",
+    "User Guide/Shortcuts.md",
     "obsidian-vault-thecollectiv/User Guide/Settings.md",
     "obsidian-vault-thecollectiv/User Guide/Features.md",
     "obsidian-vault-thecollectiv/User Guide",
@@ -201,10 +190,7 @@
     "obsidian-vault-thecollectiv/About/Contact.md",
     "obsidian-vault-thecollectiv/About",
     "obsidian-vault-thecollectiv",
-    "About/License.md",
     "About/Contact.md",
-    "Home.md",
-    "User Guide/Shortcuts.md",
     "User Guide/Settings.md",
     "Getting started/Introduction.md",
     "01 - Getting started/Installation.md",
@@ -212,7 +198,6 @@
     "01 - Getting started/Introduction.md",
     "03 - Reference/Glossary.md",
     "03 - Reference",
-    "Reference/Glossary.md",
     "Getting started/Installation.md",
     "About",
     "Change Log",
